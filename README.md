@@ -17,13 +17,12 @@ on the console, **formatted to the 2nd character after the decimal point**.
 
 ### Problem 3: Miles to Kilometers
 
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2nd
-decimal place**.
+Write a program, which **converts miles to kilometers**. **Format** the output to the **2nd decimal place**.
 
 ### Problem 4: Beverage Labels
 
 Write a program, which reads a food product
-**name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
+**name**, **volume**, **energy content**per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
 for the **given volume** and print them
 on the console in the following format:
 
