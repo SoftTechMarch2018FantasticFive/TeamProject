@@ -1,6 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
 // CONFIRMED <BASTIANMARK>
+using System;
+using System.Collections.Generic;
 
 namespace DebitCardNumber
 {
