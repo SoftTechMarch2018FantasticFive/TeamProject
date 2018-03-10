@@ -1,12 +1,5 @@
-# virtualenv directories
-
-env/
-
 # mac garbage
 .DS_Store
 
 # intelij junk
 .idea
-
-
-
