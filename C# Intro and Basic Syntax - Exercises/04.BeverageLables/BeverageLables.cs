@@ -7,13 +7,18 @@ namespace BeverageLables
     {
         public static void Main(string[] args)
         {
-            var card = new List<int>();
+            var name = Console.ReadLine();
 
-            for (int i = 0; i < 4; i++)
+            var properties = new List<double>();
+
+            for (int i = 0; i < 3; i++)
             {
-                card.Add(int.Parse(Console.ReadLine()));
+                properties.Add(double.Parse(Console.ReadLine()));  
             }
-            Console.WriteLine($"{card[0]:0000} {card[1]:0000} {card[2]:0000} {card[3]:0000}");
+
+            Console.WriteLine($"{properties[0]}ml {name}:");
+
+            Console.WriteLine($"{properties[1] * properties[0] / 100}kcal, {properties[2] * properties[0] / 100}g sugars");
         }
     }
 }
