@@ -15,6 +15,7 @@ examples below for the appropriate formatting.
  
 
 **Input**
+
 12
 433
 1
@@ -27,6 +28,22 @@ examples below for the appropriate formatting.
 
 Write a program, which calculates a **rectangles area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers
 on the console, **formatted to the 2nd character after the decimal point**.
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+2
+
+7
+
+ 
+
+14.00
 
 ### Problem 3: Miles to Kilometers
 
