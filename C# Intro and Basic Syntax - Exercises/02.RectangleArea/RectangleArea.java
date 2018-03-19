@@ -9,7 +9,7 @@ public class RectangleArea {
         // Initialize a console reader
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
 
-        // Parse the input data 
+        // Create variables and parse the input data 
         double rectangleWidth = Double.parseDouble(console.readLine());
         double rectangleHeight = Double.parseDouble(console.readLine());
 
