@@ -1,5 +1,6 @@
 // CONFIRMED from <denishristov>
 // CONFIRMED from <BASTIANMARK>
+// CONFIRMED from <NinoBonev> 19.03.2018
 using System;
 
 namespace CharacterStars
@@ -18,7 +19,7 @@ namespace CharacterStars
             // Print out the name
             Console.WriteLine($"Name: {name}");
             
-            // Create the Health and Energy bars and print them out
+            // Create the Health and Energy bars and print them on the console
             Console.WriteLine($"Health: |{new string('|', currentHealth)}{new string('.', maxHealth - currentHealth)}|");
             Console.WriteLine($"Energy: |{new string('|', currentEnergy)}{new string('.', maxEnergy - currentEnergy)}|");
             

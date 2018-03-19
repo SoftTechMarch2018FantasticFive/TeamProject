@@ -1,4 +1,4 @@
-## Exercises: C# Intro and Basic Syntax
+﻿## Exercises: C# Intro and Basic Syntax
 
 Problems for exercises and homework for the
 [Programming
@@ -10,51 +10,17 @@ Write a program, which receives **4****integers** on the
 console and **prints them** in **4-digit debit card format**. See the
 examples below for the appropriate formatting.
 
-#### Examples
-
- 
-
-**Input**
-
-12
-
-433
-
-1
-
-5331
-
-**Output**
-
-0012 0433 0001 5331
 
 ### Problem 2: Rectangle Area
 
 Write a program, which calculates a **rectangles area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers
 on the console, **formatted to the 2nd character after the decimal point**.
 
-**Input**
-
-2
-
-7
-
-
-**Output**
-
-14.00
 
 ### Problem 3: Miles to Kilometers
 
 Write a program, which **converts miles to kilometers**. **Format** the output to the **2nd decimal place**.
 
-**Input**
-
-60
- 
-**Output**
-
-96.56
 
 ### Problem 4: Beverage Labels
 
@@ -63,45 +29,9 @@ Write a program, which reads a food product
 for the **given volume** and print them
 on the console in the following format:
 
-**Input**
-
-Nuka-Cola
-
-220
-
-300
-
-70 
-
-**Output**
-
-220ml Nuka-Cola:
-
-660kcal, 154g sugars
 
 ### Problem 5: Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
 health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
-
-**Input**
-
- Mayro
-
-5
-
-10
-
-9
-
-10
-
-**Output**
-
-
-Name: Mayro
-
-Health: ||||||.....|
-
-Energy: ||||||||||.|

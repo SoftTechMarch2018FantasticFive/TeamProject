@@ -1,5 +1,6 @@
 // CONFIRMED from <denishristov>
 // CONFIRMED from <BASTIANMARK>
+// CONFIRMED <NinoBonev> 19.03.2018
 using System;
 
 namespace MilesToKilometres
